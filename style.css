@@ -1,0 +1,26 @@
+a{
+    color: rgb(255, 255, 255);
+
+}
+a:hover{
+    color: rgb(0, 255, 55);
+    transition: 0.1s;
+}
+#login-form input{
+    background-color: rgb(7, 8, 5);
+    border-radius: 50px;
+}
+
+.login{
+    background-color: rgb(69, 33, 153);
+    width: 700px;
+    margin: auto;
+    border-radius: 100px;
+    border: double 10px black;
+}
+*{
+    color: ivory;
+    text-align: center;
+
+}
+ 
